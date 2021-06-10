@@ -1,9 +1,8 @@
-sample test
+1.sample test
 
+2.Learn AZURE
 
-Learn AZURE
+3.python
 
-python
+4.Learn Salesforce
 
-Learn Salesforce
->>>>>>> 755681884d862e28c6ca216fb22f06f5f03f02b0
