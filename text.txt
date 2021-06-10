@@ -3,7 +3,10 @@ sample test
 
 Learn AZURE
 
+
 python
 
+
+
 Learn Salesforce
->>>>>>> 755681884d862e28c6ca216fb22f06f5f03f02b0
+
